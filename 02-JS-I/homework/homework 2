@@ -1,0 +1,6 @@
+
+//Variables: son formas de almacenar valores.  
+//Strings: son bloques de texto que estan representados entre comillas.
+//Funciones: nos permiten dentro del codigo realizar acciones con distintos argumentos, tenga o  no. Con la funcion
+//return obtenemos el resultado de esa funcion. 
+//La funcion if verifica si algo es verdadero o falso (true o false). 
