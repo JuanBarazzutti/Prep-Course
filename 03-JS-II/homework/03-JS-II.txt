@@ -1,0 +1,9 @@
+FOR: es una funcion que utilizamos para realizar bucles. Para ello necesitamos una expresion inicial,
+una condicion y una expresion final. Este bucle se repite indefinidamente hasta que la condicion sea false.
+for ([expresion-inicial]; [condicion]; [expresion-final]) {}
+
+&&: Se utiliza para comparar si ambas expresiones son true
+
+||: Se utiliza para comparar si una u otra expresion son true, cualquiera de ellas este en ese estado.
+
+!: Es el simbolo que utilizamos como negacion de una expresion
