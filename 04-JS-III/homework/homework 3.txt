@@ -1,0 +1,4 @@
+ARRAY: un array es una cadena de datos en forma de lista que podemos ir modificando a nuestra necesidad, asi tambien
+como acceder a ellos. ej:
+
+var nombre = [juan, maria, antonio];
